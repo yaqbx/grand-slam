@@ -1,0 +1,45 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore JetBrains IDEs files
+.idea/
+
+# Ignore VS Code files
+.vscode/
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore temporary files
+*.tmp
+
+# Ignore database files
+*.sqlite3
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore Docker files
+*.dockerignore
+
+# Ignore C extensions
+*.so
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
